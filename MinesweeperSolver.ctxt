@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ solveGUI()
+comment1.params=y
+comment1.target=boolean\ revealNum(int)
+comment2.params=row\ column
+comment2.target=void\ flagUnrevealed(int,\ int)
+comment3.params=row\ column
+comment3.target=int\ unrevealedNeighbors(int,\ int)
+comment4.params=row\ column
+comment4.target=boolean\ inBounds(int,\ int)
+comment5.params=row\ col
+comment5.target=boolean\ isUnrevealed(int,\ int)
+comment6.params=
+comment6.target=int\ percentRevealed()
+numComments=7
